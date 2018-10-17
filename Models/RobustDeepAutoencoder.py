@@ -46,7 +46,7 @@ class RDAE(object):
         argmin ||L - Decoder(Encoder(L))|| + ||S||_1
         Use Alternating projection to train model
 
-    MOFICATION: @Daniel Legorreta
+     @Modified by: Daniel Legorreta
     It was adapted for test with Time Series
     Date Modification: August-2018
 
